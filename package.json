@@ -1,0 +1,16 @@
+{
+  "name": "claudio-alberto-ui",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "This is my pesornal theme for Atom Editor created for use in my workspace.",
+  "keywords": [
+    "ui",
+    "theme",
+    "claudio"
+  ],
+  "repository": "https://github.com/atom-community/ui-theme-template",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
